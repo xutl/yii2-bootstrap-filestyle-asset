@@ -4,7 +4,7 @@
  * @copyright Copyright (c) 2012 TintSoft Technology Co. Ltd.
  * @license http://www.tintsoft.com/license/
  */
-namespace xutl\bootstrapfilestyle;
+namespace xutl\bootstrap\filestyle;
 
 use yii\web\AssetBundle;
 
@@ -20,5 +20,9 @@ class FilestyleAsset extends AssetBundle
      */
     public $js = [
         'bootstrap-filestyle.min.js',
+    ];
+
+    public $depends = [
+        'yii\bootstrap\BootstrapPluginAsset',
     ];
 }
