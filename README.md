@@ -35,3 +35,8 @@ FilestyleAsset::register($this);
 
 echo $form->field($model, 'file')->fileInput(['class'=>'filestyle','data'=>['buttonText'=>Yii::t('app','Choose file')]]);
 ```
+
+## License
+
+This is released under the MIT License. See the bundled [LICENSE.md](LICENSE.md)
+for details.
