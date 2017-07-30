@@ -4,7 +4,7 @@
 [![Latest Stable Version](https://poser.pugx.org/xutl/yii2-bootstrap-filestyle-asset/v/stable.png)](https://packagist.org/packages/xutl/yii2-bootstrap-filestyle-asset)
 [![Total Downloads](https://poser.pugx.org/xutl/yii2-bootstrap-filestyle-asset/downloads.png)](https://packagist.org/packages/xutl/yii2-bootstrap-filestyle-asset)
 [![Dependency Status](https://www.versioneye.com/php/xutl:yii2-bootstrap-filestyle-asset/dev-master/badge.png)](https://www.versioneye.com/php/xutl:yii2-bootstrap-filestyle-asset/dev-master)
-[![License](https://poser.pugx.org/xutl/yii2-admin/license.svg)](https://packagist.org/packages/xutl/yii2-bootstrap-filestyle-asset)
+[![License](https://poser.pugx.org/xutl/yii2-bootstrap-filestyle-asset/license.svg)](https://packagist.org/packages/xutl/yii2-bootstrap-filestyle-asset)
 
 
 Installation
